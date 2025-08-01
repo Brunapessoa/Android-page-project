@@ -13,3 +13,5 @@ The development of this page involved several key concepts:
     Customized bullet points and content structure.
 
 The purpose of this project is to reinforce practical skills in building structured, aesthetically consistent, and mobile-friendly web pages using only HTML and CSS.
+
+This project was developed based on HTML and CSS classes by Professor Gustavo Guanabara, from the Curso em Video channel on YouTube.
